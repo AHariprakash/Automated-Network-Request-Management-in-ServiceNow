@@ -10,9 +10,9 @@ A complete, enterprise-grade, automated network request management system develo
 
 ## 🚀 Live System Links (Instance `dev294050`)
 
-* **Service Portal Submission:** [https://dev294050.service-now.com/sp?id=sc_cat_item&sys_id=909c98bf3bcb0b10fa7eedc643e45ac1](https://dev294050.service-now.com/sp?id=sc_cat_item&sys_id=909c98bf3bcb0b10fa7eedc643e45ac1)
-* **Custom Network Database Table:** [https://dev294050.service-now.com/u_network_database_list.do](https://dev294050.service-now.com/u_network_database_list.do)
-* **Catalog Item Maintain Items:** [https://dev294050.service-now.com/sc_cat_item.do?sys_id=909c98bf3bcb0b10fa7eedc643e45ac1](https://dev294050.service-now.com/sc_cat_item.do?sys_id=909c98bf3bcb0b10fa7eedc643e45ac1)
+* **Service Portal Submission:** [[https://dev294050.service-now.com/sp?id=sc_cat_item&sys_id=909c98bf3bcb0b10fa7eedc643e45ac1](https://dev294050.service-now.com/sp?id=sc_cat_item&sys_id=909c98bf3bcb0b10fa7eedc643e45ac1)](https://dev294050.service-now.com/sp?id=sc_request&is_new_order&table=sc_request&sys_id=0aca226c831f8f109e8753d6feaad3f8)
+* **Custom Network Database Table:** https://dev294050.service-now.com/sys_db_object.do?sys_id=24e3e90883138b109e8753d6feaad38c&sysparm_record_target=sys_db_object&sysparm_record_row=1&sysparm_record_rows=6302&sysparm_record_list=sys_update_nameISNOTEMPTY%5EORDERBYDESCsys_updated_on
+* **Catalog Item Maintain Items:** https://dev294050.service-now.com/sc_cat_item.do?sys_id=8b54e59c83530f109e8753d6feaad36d&sysparm_record_target=sc_cat_item&sysparm_record_row=1&sysparm_record_rows=196&sysparm_record_list=type%21%3Dbundle%5Esys_class_name%21%3Dsc_cat_item_guide%5Etype%21%3Dpackage%5Esys_class_name%21%3Dsc_cat_item_content%5Epublished_refISEMPTY%5Esc_catalogsDOES+NOT+CONTAIN0b22fd2ad7021100b9a5c7400e610319%5EORsc_catalogsISEMPTY%5EORDERBYDESCsys_updated_on
 * **Approvals Engine:** [https://dev294050.service-now.com/sysapproval_approver_list.do](https://dev294050.service-now.com/sysapproval_approver_list.do)
 
 ---

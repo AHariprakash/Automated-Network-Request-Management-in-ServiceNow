@@ -1,7 +1,7 @@
 # Skillwallet Project Submission & Milestone Checklist
 
 **Project Title:** Automated Network Request Management in ServiceNow  
-**Assigned To:** Kasturi Sandeep  
+**Assigned To:** Anumukonda Hari Prakash  
 **Instance URL:** `https://dev294050.service-now.com`  
 
 ---
